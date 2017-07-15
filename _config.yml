@@ -1,0 +1,9 @@
+# Site settings
+title: 'Victor\'s Blog'
+tagline: 'A random software engineer\'s blog. Enjoy it!' # A brief tagline for your site
+sidebar_image: /images/cover.jpg
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: /blog
