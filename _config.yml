@@ -4,6 +4,6 @@ tagline: "A random software engineer's blog. Enjoy it!"
 sidebar_image: /images/cover.jpg
 
 # Build settings
-markdown: redcarpet
+# markdown: redcarpet
 highlighter: pygments
 baseurl: /blog
