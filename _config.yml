@@ -1,6 +1,6 @@
 # Site settings
-title: 'Victor\'s Blog'
-tagline: 'A random software engineer\'s blog. Enjoy it!' # A brief tagline for your site
+title: "Victor's Blog"
+tagline: "A random software engineer's blog. Enjoy it!"
 sidebar_image: /images/cover.jpg
 
 # Build settings
