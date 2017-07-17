@@ -7,3 +7,8 @@ sidebar_image: /images/cover.jpg
 # markdown: redcarpet
 highlighter: rouge
 baseurl: /blog
+
+# RSS
+name:         Victor's Blog
+description:  A random software engineer's blog.
+url:          https://victor-ds.github.io/blog/
